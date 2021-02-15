@@ -1,0 +1,10 @@
+C:\Users\Leleke\Desktop\GepInfoKurzus\Hibakezeles\Hibakezeles\bin\Debug\Hibakezeles.exe.config
+C:\Users\Leleke\Desktop\GepInfoKurzus\Hibakezeles\Hibakezeles\bin\Debug\Hibakezeles.exe
+C:\Users\Leleke\Desktop\GepInfoKurzus\Hibakezeles\Hibakezeles\bin\Debug\Hibakezeles.pdb
+C:\Users\Leleke\Desktop\GepInfoKurzus\Hibakezeles\Hibakezeles\obj\Debug\Hibakezeles.csprojAssemblyReference.cache
+C:\Users\Leleke\Desktop\GepInfoKurzus\Hibakezeles\Hibakezeles\obj\Debug\Hibakezeles.Form1.resources
+C:\Users\Leleke\Desktop\GepInfoKurzus\Hibakezeles\Hibakezeles\obj\Debug\Hibakezeles.Properties.Resources.resources
+C:\Users\Leleke\Desktop\GepInfoKurzus\Hibakezeles\Hibakezeles\obj\Debug\Hibakezeles.csproj.GenerateResource.cache
+C:\Users\Leleke\Desktop\GepInfoKurzus\Hibakezeles\Hibakezeles\obj\Debug\Hibakezeles.csproj.CoreCompileInputs.cache
+C:\Users\Leleke\Desktop\GepInfoKurzus\Hibakezeles\Hibakezeles\obj\Debug\Hibakezeles.exe
+C:\Users\Leleke\Desktop\GepInfoKurzus\Hibakezeles\Hibakezeles\obj\Debug\Hibakezeles.pdb
